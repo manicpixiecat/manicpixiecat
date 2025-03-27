@@ -12,11 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## ✨ Olá 👋 ✨
- ### Welcome To My Profile
- <img src="https://cdn-icons-png.flaticon.com/512/6988/6988878.png" 
- width=40
- height=40
- alt="Imagem-Gatinho"/>
+
+## <img src="https://cdn-icons-png.flaticon.com/512/6988/6988878.png" width="30" style="vertical-align: text-top;" /> Welcome to my profile <span style="font-size: 0.8em;"></span> 
 
 
 
