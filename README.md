@@ -11,4 +11,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning ...   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+
+
+
+- 🌱 I’m currently learning ...   <img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+  width="40"
+  height="40"
+  alt="Java Logo" 
+/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" 
+  width="40"
+  height="40"
+  alt= "Logo Javascrit"
+/>
